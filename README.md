@@ -1,3 +1,3 @@
-# Basic ShinyDashboard Template
+# Author Credit
 
-A starting template to make apps with shinydashboard.
+Make authorship lists with ORCiD and CRediT
